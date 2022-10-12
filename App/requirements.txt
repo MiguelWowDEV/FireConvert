@@ -1,0 +1,5 @@
+sqlite3==0.4.7
+pyqt5==5.15.7
+datetime==4.7
+pyqtgraph==0.12.4
+pytemperature==1.1
