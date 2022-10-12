@@ -1,4 +1,6 @@
+ # Estadisticas
  ![FireConvert Estadisticas](https://github-readme-stats.vercel.app/api?username=MiguelWowDEV&show_icons=true)
+
 
 # Introducción 🙌
 Esta es una aplicación  desarrollada para facilitar la conversión de unidades y la grafica de curvas de calentamiento.
@@ -38,4 +40,7 @@ para tener el formato correcto vean el archivo **formato_conversion.txt**
 ejemplo del formato en **grafica_formato.json**
 
 * Busqueda de operaciones a través de la base de datos
+
+## Licencia
+[MIT](https://choosealicense.com/licenses/mit/)
 
