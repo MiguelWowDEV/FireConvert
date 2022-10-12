@@ -7,8 +7,10 @@ Esta es una aplicación  desarrollada para facilitar la conversión de unidades 
 <img src='https://o.remove.bg/downloads/e0fb9f6d-352c-4170-9ffa-42ac600700d6/image-removebg-preview.png' width='350'>
 
 ## Forma de usar el codigo
-Primero instale las dependencias requeridas con:
-> pip install -r "app/requirements.txt"
+Instalamos las dependencias con [pip](https://pip.pypa.io/en/stable/)
+```bash
+pip install -r "requirements.txt"
+```
 
 ## Fotos del Proyecto
 <img src='https://github.com/MiguelWowDEV/FireConvert/blob/main/Fotos/imagen1.png' width='400' align='center'>
