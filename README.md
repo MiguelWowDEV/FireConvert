@@ -10,10 +10,7 @@ Fue creado los objetivos siguientes:
 * Una herramienta nueva para **los usuarios**.
 
 <h2 style='color: rgb(232, 97, 30);'>Caracteristicas Actuales del Proyecto</h2>
-* Conversión de unidades:
-	* Kelvin 
-	* Fahrenheit
-	* Celsius
+* Conversión de unidades (Celsius, Kelvin, Fahrenheit)
 
 * Convertir varios unidades al mismo tiempo a través de un archivo.txt
 para tener el formato correcto vean el archivo **formato_conversion.txt**
