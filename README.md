@@ -4,6 +4,9 @@ Esta es una aplicación  desarrollada para facilitar la conversión de unidades 
 ## Lenguaje y herramienta principal
 <img src='https://o.remove.bg/downloads/e0fb9f6d-352c-4170-9ffa-42ac600700d6/image-removebg-preview.png' width='350'>
 
+## Fotos del Proyecto
+![alt text](https://github.com/MiguelWowDEV/FireConvert/blob/main/Fotos/imagen1.png?raw=true)
+
 ## Objetivo
 Fue creado los objetivos siguientes:
 * Una guía practica para programadores de **Python** y que quieran aprender utilizar **PyQT5**.
