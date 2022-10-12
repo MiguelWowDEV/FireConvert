@@ -1,0 +1,5 @@
+{
+    "Comentario": "Ejemplo del formato para graficar la curva de calentamiento",
+    "tiempo": [1, 4, 10, 20],
+    "temperatura": [5, 8, 10, 18]
+}
