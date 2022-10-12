@@ -5,8 +5,8 @@ Esta es una aplicación  desarrollada para facilitar la conversión de unidades 
 <img src='https://o.remove.bg/downloads/e0fb9f6d-352c-4170-9ffa-42ac600700d6/image-removebg-preview.png' width='350'>
 
 ## Fotos del Proyecto
-<img src='https://github.com/MiguelWowDEV/FireConvert/blob/main/Fotos/imagen1.png' width='435' align='right'>
-<img src='https://github.com/MiguelWowDEV/FireConvert/blob/main/Fotos/imagen2.png' width='435' align='center'>
+<img src='https://github.com/MiguelWowDEV/FireConvert/blob/main/Fotos/imagen1.png' width='410' align='right'>
+<img src='https://github.com/MiguelWowDEV/FireConvert/blob/main/Fotos/imagen2.png' width='410' align='center'>
 
 
 ## Objetivo
