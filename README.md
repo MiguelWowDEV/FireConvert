@@ -1,2 +1,2 @@
 # FireConvert
-Es una app que contendrá un conjunto de funciones que faciliten la conversión de unidades./ It is an app that will contain a set of functions to facilitate the conversion of units.
+Es una app que contendrá un conjunto de funciones que faciliten la conversión de unidades y la creación de graficas Temperatura VS Tiempo. Todo este proyecto fue desarrollado con Python utilizando la poderosa librería PyQt5.
