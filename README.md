@@ -1,8 +1,8 @@
-# Introducción
+# Introducción 🙌
 Esta es una aplicación  desarrollada para facilitar la conversión de unidades y la grafica de curvas de calentamiento.
 
 ## Lenguaje y herramienta principal
-<img src='https://codetorial.net/en/pyqt5/_images/0_pyqt_logo.png' width='350'>
+<img src='https://o.remove.bg/downloads/e0fb9f6d-352c-4170-9ffa-42ac600700d6/image-removebg-preview.png' width='350'>
 
 ## Objetivo
 Fue creado los objetivos siguientes:
@@ -24,3 +24,4 @@ para tener el formato correcto vean el archivo **formato_conversion.txt**
 ejemplo del formato en **grafica_formato.json**
 
 * Busqueda de operaciones a través de la base de datos
+
