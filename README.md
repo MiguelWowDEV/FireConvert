@@ -1,4 +1,4 @@
-[![MIT License][license-shield]][license-url]
+[![MIT License]
 
 # Introducción 🙌
 Esta es una aplicación  desarrollada para facilitar la conversión de unidades y la grafica de curvas de calentamiento.
