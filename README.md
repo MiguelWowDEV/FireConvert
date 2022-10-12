@@ -6,7 +6,7 @@ Esta es una aplicación  desarrollada para facilitar la conversión de unidades 
 
 ## Fotos del Proyecto
 <img src='https://github.com/MiguelWowDEV/FireConvert/blob/main/Fotos/imagen1.png' width='410'>
-<img src='https://github.com/MiguelWowDEV/FireConvert/blob/main/Fotos/imagen2.png' width='410' align='right'>
+<img src='https://github.com/MiguelWowDEV/FireConvert/blob/main/Fotos/imagen2.png' width='410'>
 
 
 ## Objetivo
