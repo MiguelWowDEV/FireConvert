@@ -1,4 +1,4 @@
-[![MIT License]
+ ![FireConvert Estadisticas](https://github-readme-stats.vercel.app/api?username=MiguelWowDEV&show_icons=true)
 
 # Introducción 🙌
 Esta es una aplicación  desarrollada para facilitar la conversión de unidades y la grafica de curvas de calentamiento.
@@ -11,6 +11,7 @@ Instalamos las dependencias con [pip](https://pip.pypa.io/en/stable/)
 ```bash
 pip install -r "requirements.txt"
 ```
+
 
 ## Fotos del Proyecto
 <img src='https://github.com/MiguelWowDEV/FireConvert/blob/main/Fotos/imagen1.png' width='400' align='center'>
